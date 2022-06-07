@@ -1,10 +1,14 @@
- <img alt="200" src="img/relay-white.png" />
+ <div align="center">
+   <img width="500" src="img/relay-white.png" />
+ </div>
 
 <h1 align="center">
     relay-partial-render
 </h1>
 
-> Sample demo of how to use [**relay-partial-render**](https://relay.dev/docs/guided-tour/reusing-cached-data/rendering-partially-cached-data/)
+<div align="center">
+ <span> Sample demo of how to use </span> <a href="https://relay.dev/docs/guided-tour/reusing-cached-data/rendering-partially-cached-data/">relay-partial-render<a/>
+</div>
 
 <p align="center">🚧 WIP 🚧</p>
 
